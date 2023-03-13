@@ -1,8 +1,10 @@
-import React from 'react'
+import Form from "../reducer-prac/Form"
 
 const Homepage = () => {
   return (
-    <h1>asdadasdasd</h1>
+    <>
+      <Form />
+    </>
   )
 }
 
